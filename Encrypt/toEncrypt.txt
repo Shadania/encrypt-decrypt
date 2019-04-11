@@ -1,5 +1,0 @@
-The quick brown fox jumps over the lazy dog
-
-Also hello world
-
-This is definitely some whitespace
